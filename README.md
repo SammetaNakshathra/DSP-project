@@ -1,6 +1,6 @@
 This repository contains the implementation of core Digital Signal Processing concepts using simulations and signal analysis techniques. The project focuses on generating and manipulating discrete-time signals, performing time-domain and frequency-domain analysis, and understanding system behavior through mathematical and graphical representations.
 
-Key concepts covered include:
+  Key concepts covered include:
 
 1.Signal generation and operations
 
